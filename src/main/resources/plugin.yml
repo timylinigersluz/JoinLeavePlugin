@@ -1,0 +1,4 @@
+name: JoinLeavePlugin
+version: '${project.version}'
+main: ch.ksrminecraft.joinleaveplugin.JoinLeavePlugin
+api-version: '1.20'
